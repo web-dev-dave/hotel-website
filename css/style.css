@@ -242,6 +242,27 @@ p {
   opacity: 0.9;
 }
 
+/* Contact Form */
+#contact-form .form-group {
+  margin-bottom: 20px;
+}
+
+#contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px #dddddd solid;
+}
+
+#contact-form textarea {
+  height: 200px;
+}
+
 /* Footer */
 #main-footer {
   text-align: center;
